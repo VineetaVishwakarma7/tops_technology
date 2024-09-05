@@ -2,16 +2,16 @@
 
 <?php
 
-// if(isset($_SESSION['admin']))
-// {
+if(isset($_SESSION['admin']))
+{
   
-// }
-// else
-// {
-//   echo "<script>
-//   window.location='index';
-//   </script>";
-// }
+}
+else
+{
+  echo "<script>
+  window.location='index';
+  </script>";
+}
 ?>
 
 <!DOCTYPE html>
