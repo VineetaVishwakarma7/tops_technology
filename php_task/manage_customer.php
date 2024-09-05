@@ -1,18 +1,5 @@
 
 <?php
-
-// if(isset($_SESSION['admin']))
-// {
-  
-// }
-// else
-// {
-//   echo "<script>
-//   window.location='index';
-//   </script>";
-// }
-// ?>
-<?php
   include_once('header.php');
 ?>
 <div class="panel panel-default">
